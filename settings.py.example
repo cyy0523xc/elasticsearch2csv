@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+# es config
+ES_CONF = {
+    'host': 'http://10.132.31.214:9200'
+}
+
+# es mapping files的跟目录
+MAPPINGS_ROOT_PATH = '/var/www/back/es_mappings/'

@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# vim
+.ropeproject/
+settings.py
+
+# 
+.idea/
