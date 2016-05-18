@@ -17,3 +17,7 @@ python es2csv.py --index-name=indexname --file-name=/tmp/filename.csv --doc-type
 python es2csv.py --help
 ```
 
+## Todos
+
+- [x] 分页导入
+- [ ] 支持复杂字段，例如经纬度等
